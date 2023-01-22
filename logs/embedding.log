@@ -1,0 +1,315 @@
+2023-01-15 10:58:57,202 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:107] - INFO: load tfidf model
+2023-01-15 10:59:09,636 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:110] - INFO: load w2v model
+2023-01-15 11:00:22,391 - embedding.py[line:38] - INFO: load data
+2023-01-15 11:02:46,630 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:107] - INFO: load tfidf model
+2023-01-15 11:02:59,227 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:110] - INFO: load w2v model
+2023-01-15 11:02:59,438 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:115] - INFO: load fast model
+2023-01-15 11:02:59,658 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:120] - INFO: load lda model
+2023-01-15 11:03:58,616 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:107] - INFO: load tfidf model
+2023-01-15 11:04:10,308 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:110] - INFO: load w2v model
+2023-01-15 11:04:10,364 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:115] - INFO: load fast model
+2023-01-15 11:04:10,420 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:120] - INFO: load lda model
+2023-01-15 11:06:07,011 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:107] - INFO: load tfidf model
+2023-01-15 11:06:18,935 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:110] - INFO: load w2v model
+2023-01-15 11:06:18,993 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:115] - INFO: load fast model
+2023-01-15 11:06:19,050 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:120] - INFO: load lda model
+2023-01-15 11:06:54,209 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:107] - INFO: load tfidf model
+2023-01-15 11:07:06,753 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:110] - INFO: load w2v model
+2023-01-15 11:07:06,820 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:115] - INFO: load fast model
+2023-01-15 11:07:06,881 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:120] - INFO: load lda model
+2023-01-15 11:07:42,669 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:107] - INFO: load tfidf model
+2023-01-15 11:07:55,645 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:110] - INFO: load w2v model
+2023-01-15 11:07:55,710 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:115] - INFO: load fast model
+2023-01-15 11:07:55,772 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:120] - INFO: load lda model
+2023-01-15 11:17:58,063 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:107] - INFO: load tfidf model
+2023-01-15 11:18:10,226 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:110] - INFO: load w2v model
+2023-01-15 11:18:10,609 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:115] - INFO: load fast model
+2023-01-15 11:18:10,708 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:120] - INFO: load lda model
+2023-01-15 11:29:45,046 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:107] - INFO: load tfidf model
+2023-01-15 11:29:56,787 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:110] - INFO: load w2v model
+2023-01-15 11:29:56,983 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:115] - INFO: load fast model
+2023-01-15 11:29:57,092 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:120] - INFO: load lda model
+2023-01-15 11:33:16,923 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:107] - INFO: load tfidf model
+2023-01-15 11:33:28,716 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:110] - INFO: load w2v model
+2023-01-15 11:33:28,771 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:115] - INFO: load fast model
+2023-01-15 11:33:28,827 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:120] - INFO: load lda model
+2023-01-15 11:34:23,169 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:107] - INFO: load tfidf model
+2023-01-15 11:34:34,739 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:110] - INFO: load w2v model
+2023-01-15 11:34:34,798 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:115] - INFO: load fast model
+2023-01-15 11:34:34,854 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:120] - INFO: load lda model
+2023-01-15 11:39:56,836 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:107] - INFO: load tfidf model
+2023-01-15 11:40:09,167 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:110] - INFO: load w2v model
+2023-01-15 11:40:09,253 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:115] - INFO: load fast model
+2023-01-15 11:40:09,316 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:120] - INFO: load lda model
+2023-01-15 11:44:35,492 - embedding.py[line:38] - INFO: load data
+2023-01-15 11:48:11,123 - embedding.py[line:49] - INFO: train tfidf
+2023-01-15 11:48:45,970 - embedding.py[line:55] - INFO: train word2vec
+2023-01-15 12:01:30,191 - embedding.py[line:71] - INFO: train fast
+2023-01-15 12:24:44,985 - embedding.py[line:84] - INFO: train lda
+2023-01-15 12:36:19,137 - embedding.py[line:95] - INFO: save tfidf model
+2023-01-15 12:36:39,523 - embedding.py[line:98] - INFO: save w2v model
+2023-01-15 12:36:39,797 - embedding.py[line:101] - INFO: save fast model
+2023-01-15 12:36:39,870 - embedding.py[line:104] - INFO: save ladmodel
+2023-01-15 13:18:32,176 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:108] - INFO: load tfidf model
+2023-01-15 13:18:43,629 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:111] - INFO: load w2v model
+2023-01-15 13:18:43,752 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:116] - INFO: load fast model
+2023-01-15 13:18:43,816 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:121] - INFO: load lda model
+2023-01-15 13:19:40,447 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:108] - INFO: load tfidf model
+2023-01-15 13:19:52,243 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:111] - INFO: load w2v model
+2023-01-15 13:19:52,302 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:116] - INFO: load fast model
+2023-01-15 13:19:52,361 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:121] - INFO: load lda model
+2023-01-15 13:39:13,685 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:108] - INFO: load tfidf model
+2023-01-15 13:39:25,277 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:111] - INFO: load w2v model
+2023-01-15 13:39:25,338 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:116] - INFO: load fast model
+2023-01-15 13:39:25,394 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:121] - INFO: load lda model
+2023-01-15 13:40:03,204 - embedding.py[line:38] - INFO: load data
+2023-01-15 13:40:36,876 - embedding.py[line:38] - INFO: load data
+2023-01-15 13:44:09,211 - embedding.py[line:49] - INFO: train tfidf
+2023-01-15 13:44:45,126 - embedding.py[line:55] - INFO: train word2vec
+2023-01-15 13:58:36,783 - embedding.py[line:71] - INFO: train fast
+2023-01-15 14:22:59,984 - embedding.py[line:84] - INFO: train lda
+2023-01-15 14:35:56,565 - embedding.py[line:95] - INFO: save tfidf model
+2023-01-15 14:36:18,752 - embedding.py[line:98] - INFO: save w2v model
+2023-01-15 14:36:18,986 - embedding.py[line:101] - INFO: save fast model
+2023-01-15 14:36:19,133 - embedding.py[line:104] - INFO: save ladmodel
+2023-01-15 14:48:11,260 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:108] - INFO: load tfidf model
+2023-01-15 14:48:23,373 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:111] - INFO: load w2v model
+2023-01-15 14:48:23,438 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:116] - INFO: load fast model
+2023-01-15 14:48:23,504 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:121] - INFO: load lda model
+2023-01-15 15:01:58,260 - ..\src\word2vec\embedding.py[line:108] - INFO: load tfidf model
+2023-01-15 15:02:10,960 - ..\src\word2vec\embedding.py[line:111] - INFO: load w2v model
+2023-01-15 15:02:11,163 - ..\src\word2vec\embedding.py[line:116] - INFO: load fast model
+2023-01-15 15:02:11,248 - ..\src\word2vec\embedding.py[line:121] - INFO: load lda model
+2023-01-15 15:05:26,888 - embedding.py[line:38] - INFO: load data
+2023-01-15 15:09:03,660 - embedding.py[line:49] - INFO: train tfidf
+2023-01-15 15:09:40,597 - embedding.py[line:55] - INFO: train word2vec
+2023-01-15 15:22:37,957 - embedding.py[line:71] - INFO: train fast
+2023-01-15 15:46:35,342 - embedding.py[line:84] - INFO: train lda
+2023-01-15 15:59:16,374 - embedding.py[line:95] - INFO: save tfidf model
+2023-01-15 15:59:38,187 - embedding.py[line:98] - INFO: save w2v model
+2023-01-15 15:59:38,292 - embedding.py[line:101] - INFO: save fast model
+2023-01-15 15:59:38,362 - embedding.py[line:104] - INFO: save ladmodel
+2023-01-15 16:57:52,550 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:108] - INFO: load tfidf model
+2023-01-15 16:58:03,886 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:111] - INFO: load w2v model
+2023-01-15 16:58:03,948 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:116] - INFO: load fast model
+2023-01-15 17:03:13,833 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:108] - INFO: load tfidf model
+2023-01-15 17:03:25,286 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:111] - INFO: load w2v model
+2023-01-15 17:03:25,344 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:116] - INFO: load fast model
+2023-01-15 17:04:09,337 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:108] - INFO: load tfidf model
+2023-01-15 17:04:20,872 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:111] - INFO: load w2v model
+2023-01-15 17:04:20,933 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:116] - INFO: load fast model
+2023-01-15 17:07:44,091 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:108] - INFO: load tfidf model
+2023-01-15 17:07:55,583 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:111] - INFO: load w2v model
+2023-01-15 17:07:55,641 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:116] - INFO: load fast model
+2023-01-15 17:09:44,893 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:108] - INFO: load tfidf model
+2023-01-15 17:09:56,287 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:111] - INFO: load w2v model
+2023-01-15 17:09:56,348 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:116] - INFO: load fast model
+2023-01-15 22:54:15,235 - ../src\word2vec\embedding.py[line:108] - INFO: load tfidf model
+2023-01-15 22:54:27,488 - ../src\word2vec\embedding.py[line:111] - INFO: load w2v model
+2023-01-15 22:54:27,562 - ../src\word2vec\embedding.py[line:116] - INFO: load fast model
+2023-01-16 13:22:24,314 - embedding.py[line:38] - INFO: load data
+2023-01-16 13:23:18,914 - embedding.py[line:38] - INFO: load data
+2023-01-16 13:23:27,664 - embedding.py[line:47] - INFO: train tfidf
+2023-01-16 13:29:49,611 - embedding.py[line:38] - INFO: load data
+2023-01-16 13:29:58,636 - embedding.py[line:47] - INFO: train tfidf
+2023-01-16 13:30:41,525 - embedding.py[line:53] - INFO: train word2vec
+2023-01-16 13:39:21,130 - embedding.py[line:69] - INFO: train fast
+2023-01-16 13:52:15,933 - embedding.py[line:82] - INFO: train lda
+2023-01-16 14:52:18,621 - embedding.py[line:38] - INFO: load data
+2023-01-16 14:52:25,545 - embedding.py[line:47] - INFO: train tfidf
+2023-01-16 14:53:04,174 - embedding.py[line:53] - INFO: train word2vec
+2023-01-16 15:00:51,739 - embedding.py[line:69] - INFO: train fast
+2023-01-16 15:13:45,253 - embedding.py[line:82] - INFO: train lda
+2023-01-16 15:34:16,496 - embedding.py[line:38] - INFO: load data
+2023-01-16 15:34:23,379 - embedding.py[line:47] - INFO: train tfidf
+2023-01-16 15:34:56,909 - embedding.py[line:53] - INFO: train word2vec
+2023-01-16 15:42:25,646 - embedding.py[line:69] - INFO: train fast
+2023-01-16 15:54:46,378 - embedding.py[line:82] - INFO: train lda
+2023-01-16 16:06:03,703 - embedding.py[line:93] - INFO: save tfidf model
+2023-01-16 16:06:28,379 - embedding.py[line:96] - INFO: save w2v model
+2023-01-16 16:06:29,207 - embedding.py[line:99] - INFO: save fast model
+2023-01-16 16:06:29,490 - embedding.py[line:102] - INFO: save ladmodel
+2023-01-16 19:04:23,624 - e:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-16 19:04:23,624 - e:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-16 19:04:36,061 - e:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-16 19:04:36,061 - e:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-16 19:04:36,248 - e:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-16 19:04:36,248 - e:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-16 19:13:55,116 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-16 19:14:06,802 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-16 19:14:09,587 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-16 19:20:23,322 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-16 19:20:34,938 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-16 19:20:37,290 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-16 20:08:02,527 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-16 20:08:14,802 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-16 20:08:19,560 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-16 20:11:22,095 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-16 20:11:33,956 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-16 20:11:34,116 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-16 20:12:55,763 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-16 20:13:07,192 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-16 20:13:07,345 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-16 20:20:07,009 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-16 20:20:18,586 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-16 20:20:18,741 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-16 20:21:45,083 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-16 20:21:56,661 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-16 20:21:56,815 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-16 20:24:29,949 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-16 20:24:41,589 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-16 20:24:41,740 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-16 20:38:49,279 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-16 20:39:00,875 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-16 20:39:01,029 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-16 20:45:51,316 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-16 20:46:02,859 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-16 20:46:03,016 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-16 20:47:59,500 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-16 20:48:10,982 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-16 20:48:11,132 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-16 20:52:29,202 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-16 20:52:40,868 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-16 20:52:41,020 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-17 09:22:58,699 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-17 09:23:34,808 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-17 09:23:37,188 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-17 14:21:19,350 - ../src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-17 14:21:31,567 - ../src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-17 14:21:33,705 - ../src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-17 14:24:25,455 - ../src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-17 14:24:37,443 - ../src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-17 14:24:37,602 - ../src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-17 14:24:39,824 - ../src\word2vec\embedding.py[line:119] - INFO: load lda model
+2023-01-17 14:25:33,783 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-17 14:25:45,731 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-17 14:25:47,848 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-17 14:25:50,072 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:119] - INFO: load lda model
+2023-01-17 21:10:55,883 - e:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-17 21:10:55,883 - e:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-17 21:11:09,093 - e:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-17 21:11:09,093 - e:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-17 21:11:11,242 - e:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-17 21:11:11,242 - e:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-17 21:11:13,399 - e:\learn\bookClassfy\src\word2vec\embedding.py[line:119] - INFO: load lda model
+2023-01-17 21:11:13,399 - e:\learn\bookClassfy\src\word2vec\embedding.py[line:119] - INFO: load lda model
+2023-01-17 21:16:48,501 - e:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-17 21:16:48,501 - e:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-17 21:17:01,869 - e:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-17 21:17:01,869 - e:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-17 21:17:02,041 - e:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-17 21:17:02,041 - e:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-17 21:17:02,224 - e:\learn\bookClassfy\src\word2vec\embedding.py[line:119] - INFO: load lda model
+2023-01-17 21:17:02,224 - e:\learn\bookClassfy\src\word2vec\embedding.py[line:119] - INFO: load lda model
+2023-01-17 21:29:03,179 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-17 21:29:19,772 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-17 21:29:22,236 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-17 21:29:24,359 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:119] - INFO: load lda model
+2023-01-17 21:31:25,885 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-17 21:31:38,726 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-17 21:31:41,063 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-17 21:31:43,242 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:119] - INFO: load lda model
+2023-01-17 21:34:07,213 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-17 21:34:20,303 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-17 21:34:22,436 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-17 21:34:24,625 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:119] - INFO: load lda model
+2023-01-17 22:27:10,271 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-17 22:27:22,801 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-17 22:27:25,194 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-17 22:27:27,561 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:119] - INFO: load lda model
+2023-01-17 22:40:15,245 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-17 22:40:27,111 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-17 22:40:29,302 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-17 22:40:31,536 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:119] - INFO: load lda model
+2023-01-17 22:42:37,545 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-17 22:42:49,079 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-17 22:42:51,273 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-17 22:42:53,585 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:119] - INFO: load lda model
+2023-01-17 22:57:50,453 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-17 22:58:01,931 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-17 22:58:04,054 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-17 22:58:06,232 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:119] - INFO: load lda model
+2023-01-17 23:34:43,822 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-17 23:34:56,161 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-17 23:34:58,462 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-17 23:35:00,697 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:119] - INFO: load lda model
+2023-01-18 00:13:55,895 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-18 00:14:08,685 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-18 00:14:11,397 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-18 00:14:13,863 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:119] - INFO: load lda model
+2023-01-18 00:30:30,563 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-18 00:30:42,146 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-18 00:30:44,397 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-18 00:30:46,653 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:119] - INFO: load lda model
+2023-01-18 00:45:31,483 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-18 00:45:42,934 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-18 00:45:45,117 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-18 00:45:47,262 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:119] - INFO: load lda model
+2023-01-18 01:03:26,452 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-18 01:03:38,334 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-18 01:03:38,484 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-18 01:03:38,634 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:119] - INFO: load lda model
+2023-01-18 07:25:19,277 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-18 07:25:31,218 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-18 07:25:33,444 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-18 07:25:35,612 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:119] - INFO: load lda model
+2023-01-18 13:15:13,351 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-18 13:15:25,098 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-18 13:15:27,268 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-18 13:15:29,503 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:119] - INFO: load lda model
+2023-01-18 13:17:11,503 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-18 13:17:23,271 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-18 13:17:23,423 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-18 13:17:23,581 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:119] - INFO: load lda model
+2023-01-18 13:19:36,019 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-18 13:19:47,558 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-18 13:19:47,711 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-18 13:19:47,862 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:119] - INFO: load lda model
+2023-01-18 13:22:33,635 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-18 13:22:45,005 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-18 13:22:45,158 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-18 13:22:45,306 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:119] - INFO: load lda model
+2023-01-18 14:04:47,210 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-18 14:04:58,815 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-18 14:04:58,970 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-18 14:04:59,123 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:119] - INFO: load lda model
+2023-01-18 14:21:59,700 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-18 14:22:11,258 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-18 14:22:11,412 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-18 14:22:11,563 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:119] - INFO: load lda model
+2023-01-18 15:26:09,341 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-18 15:26:21,310 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-18 15:26:21,461 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-18 15:26:21,620 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:119] - INFO: load lda model
+2023-01-18 15:35:47,560 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-18 15:35:59,859 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-18 15:36:00,023 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-18 15:36:00,179 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:119] - INFO: load lda model
+2023-01-18 15:43:14,156 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-18 15:43:26,235 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-18 15:43:26,389 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-18 15:43:26,543 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:119] - INFO: load lda model
+2023-01-18 15:59:23,947 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-18 15:59:35,959 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-18 15:59:36,111 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-18 15:59:36,263 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:119] - INFO: load lda model
+2023-01-18 16:06:13,839 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-18 16:06:26,245 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-18 16:06:26,406 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-18 16:06:26,559 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:119] - INFO: load lda model
+2023-01-18 17:37:10,214 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-18 17:37:21,779 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-18 17:37:21,933 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-18 17:37:22,086 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:119] - INFO: load lda model
+2023-01-18 17:42:51,876 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-18 17:43:03,442 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-18 17:43:03,594 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-18 17:43:03,743 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:119] - INFO: load lda model
+2023-01-18 17:46:57,795 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-18 17:47:09,186 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-18 17:47:09,342 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-18 17:47:09,496 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:119] - INFO: load lda model
+2023-01-18 22:19:16,555 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:106] - INFO: load tfidf model
+2023-01-18 22:19:28,948 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:109] - INFO: load w2v model
+2023-01-18 22:19:31,544 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:114] - INFO: load fast model
+2023-01-18 22:19:33,634 - E:\learn\bookClassfy\src\word2vec\embedding.py[line:119] - INFO: load lda model

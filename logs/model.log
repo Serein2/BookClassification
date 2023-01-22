@@ -1,0 +1,272 @@
+2023-01-16 19:14:14,989 - E:\learn\bookClassfy\src\ML\models.py[line:198] - INFO: get all freature
+2023-01-16 19:14:14,990 - E:\learn\bookClassfy\src\ML\models.py[line:73] - INFO: generate embedding feature 
+2023-01-16 19:20:42,744 - E:\learn\bookClassfy\src\ML\models.py[line:198] - INFO: get all freature
+2023-01-16 19:20:42,744 - E:\learn\bookClassfy\src\ML\models.py[line:73] - INFO: generate embedding feature 
+2023-01-16 19:20:56,673 - E:\learn\bookClassfy\src\ML\models.py[line:82] - INFO: generate atuoencoder feature
+2023-01-16 19:20:56,673 - E:\learn\bookClassfy\src\ML\models.py[line:84] - INFO: generate basic feature
+2023-01-16 20:08:23,806 - E:\learn\bookClassfy\src\ML\models.py[line:198] - INFO: get all freature
+2023-01-16 20:08:23,807 - E:\learn\bookClassfy\src\ML\models.py[line:73] - INFO: generate embedding feature 
+2023-01-16 20:08:37,916 - E:\learn\bookClassfy\src\ML\models.py[line:82] - INFO: generate atuoencoder feature
+2023-01-16 20:08:37,916 - E:\learn\bookClassfy\src\ML\models.py[line:84] - INFO: generate basic feature
+2023-01-16 20:11:37,245 - E:\learn\bookClassfy\src\ML\models.py[line:198] - INFO: get all freature
+2023-01-16 20:11:37,246 - E:\learn\bookClassfy\src\ML\models.py[line:73] - INFO: generate embedding feature 
+2023-01-16 20:11:49,856 - E:\learn\bookClassfy\src\ML\models.py[line:82] - INFO: generate atuoencoder feature
+2023-01-16 20:11:49,856 - E:\learn\bookClassfy\src\ML\models.py[line:84] - INFO: generate basic feature
+2023-01-16 20:11:53,730 - E:\learn\bookClassfy\src\ML\models.py[line:89] - INFO: generate model feature
+2023-01-16 20:13:10,336 - E:\learn\bookClassfy\src\ML\models.py[line:198] - INFO: get all freature
+2023-01-16 20:13:10,337 - E:\learn\bookClassfy\src\ML\models.py[line:73] - INFO: generate embedding feature 
+2023-01-16 20:13:22,696 - E:\learn\bookClassfy\src\ML\models.py[line:82] - INFO: generate atuoencoder feature
+2023-01-16 20:13:22,697 - E:\learn\bookClassfy\src\ML\models.py[line:84] - INFO: generate basic feature
+2023-01-16 20:13:26,305 - E:\learn\bookClassfy\src\ML\models.py[line:89] - INFO: generate model feature
+2023-01-16 20:39:04,168 - E:\learn\bookClassfy\src\ML\models.py[line:198] - INFO: get all freature
+2023-01-16 20:39:04,168 - E:\learn\bookClassfy\src\ML\models.py[line:73] - INFO: generate embedding feature 
+2023-01-16 20:39:16,367 - E:\learn\bookClassfy\src\ML\models.py[line:82] - INFO: generate atuoencoder feature
+2023-01-16 20:39:16,367 - E:\learn\bookClassfy\src\ML\models.py[line:84] - INFO: generate basic feature
+2023-01-16 20:39:19,951 - E:\learn\bookClassfy\src\ML\models.py[line:89] - INFO: generate model feature
+2023-01-16 20:46:06,156 - E:\learn\bookClassfy\src\ML\models.py[line:198] - INFO: get all freature
+2023-01-16 20:46:06,156 - E:\learn\bookClassfy\src\ML\models.py[line:73] - INFO: generate embedding feature 
+2023-01-16 20:46:18,255 - E:\learn\bookClassfy\src\ML\models.py[line:82] - INFO: generate atuoencoder feature
+2023-01-16 20:46:18,256 - E:\learn\bookClassfy\src\ML\models.py[line:84] - INFO: generate basic feature
+2023-01-16 20:46:21,795 - E:\learn\bookClassfy\src\ML\models.py[line:89] - INFO: generate model feature
+2023-01-16 20:48:14,250 - E:\learn\bookClassfy\src\ML\models.py[line:198] - INFO: get all freature
+2023-01-16 20:48:14,250 - E:\learn\bookClassfy\src\ML\models.py[line:73] - INFO: generate embedding feature 
+2023-01-16 20:48:26,594 - E:\learn\bookClassfy\src\ML\models.py[line:82] - INFO: generate atuoencoder feature
+2023-01-16 20:48:26,594 - E:\learn\bookClassfy\src\ML\models.py[line:84] - INFO: generate basic feature
+2023-01-16 20:48:30,068 - E:\learn\bookClassfy\src\ML\models.py[line:89] - INFO: generate model feature
+2023-01-16 20:48:30,705 - E:\learn\bookClassfy\src\ML\models.py[line:116] - INFO: generate bert feature
+2023-01-16 20:52:44,224 - E:\learn\bookClassfy\src\ML\models.py[line:198] - INFO: get all freature
+2023-01-16 20:52:44,224 - E:\learn\bookClassfy\src\ML\models.py[line:73] - INFO: generate embedding feature 
+2023-01-16 20:52:56,865 - E:\learn\bookClassfy\src\ML\models.py[line:82] - INFO: generate atuoencoder feature
+2023-01-16 20:52:56,865 - E:\learn\bookClassfy\src\ML\models.py[line:84] - INFO: generate basic feature
+2023-01-16 20:53:00,658 - E:\learn\bookClassfy\src\ML\models.py[line:89] - INFO: generate model feature
+2023-01-16 20:53:01,387 - E:\learn\bookClassfy\src\ML\models.py[line:116] - INFO: generate bert feature
+2023-01-17 01:08:34,835 - E:\learn\bookClassfy\src\ML\models.py[line:123] - INFO: generate bert feature
+2023-01-17 09:23:51,417 - E:\learn\bookClassfy\src\ML\models.py[line:198] - INFO: get all freature
+2023-01-17 09:23:51,437 - E:\learn\bookClassfy\src\ML\models.py[line:73] - INFO: generate embedding feature 
+2023-01-17 09:24:04,711 - E:\learn\bookClassfy\src\ML\models.py[line:82] - INFO: generate atuoencoder feature
+2023-01-17 09:24:04,712 - E:\learn\bookClassfy\src\ML\models.py[line:84] - INFO: generate basic feature
+2023-01-17 09:24:08,595 - E:\learn\bookClassfy\src\ML\models.py[line:89] - INFO: generate model feature
+2023-01-17 09:24:09,069 - E:\learn\bookClassfy\src\ML\models.py[line:116] - INFO: generate bert feature
+2023-01-17 14:15:22,403 - E:\learn\bookClassfy\src\ML\models.py[line:123] - INFO: generate bert feature
+2023-01-17 14:26:07,267 - E:\learn\bookClassfy\src\ML\models.py[line:198] - INFO: get all freature
+2023-01-17 14:26:07,294 - E:\learn\bookClassfy\src\ML\models.py[line:73] - INFO: generate embedding feature 
+2023-01-17 14:26:20,746 - E:\learn\bookClassfy\src\ML\models.py[line:82] - INFO: generate atuoencoder feature
+2023-01-17 14:26:20,746 - E:\learn\bookClassfy\src\ML\models.py[line:84] - INFO: generate basic feature
+2023-01-17 14:26:24,606 - E:\learn\bookClassfy\src\ML\models.py[line:89] - INFO: generate model feature
+2023-01-17 14:26:25,254 - E:\learn\bookClassfy\src\ML\models.py[line:116] - INFO: generate bert feature
+2023-01-17 18:40:30,563 - E:\learn\bookClassfy\src\ML\models.py[line:123] - INFO: generate bert feature
+2023-01-17 21:29:40,344 - E:\learn\bookClassfy\src\ML\models.py[line:200] - INFO: get all freature
+2023-01-17 21:31:58,571 - E:\learn\bookClassfy\src\ML\models.py[line:200] - INFO: get all freature
+2023-01-17 21:31:58,582 - E:\learn\bookClassfy\src\ML\models.py[line:124] - INFO: generate lda feature
+2023-01-17 21:34:38,999 - E:\learn\bookClassfy\src\ML\models.py[line:200] - INFO: get all freature
+2023-01-17 21:34:39,012 - E:\learn\bookClassfy\src\ML\models.py[line:74] - INFO: generate embedding feature 
+2023-01-17 21:34:53,572 - E:\learn\bookClassfy\src\ML\models.py[line:83] - INFO: generate atuoencoder feature
+2023-01-17 21:34:53,572 - E:\learn\bookClassfy\src\ML\models.py[line:85] - INFO: generate basic feature
+2023-01-17 21:34:57,326 - E:\learn\bookClassfy\src\ML\models.py[line:124] - INFO: generate lda feature
+2023-01-17 22:27:43,279 - E:\learn\bookClassfy\src\ML\models.py[line:200] - INFO: get all freature
+2023-01-17 22:27:43,295 - E:\learn\bookClassfy\src\ML\models.py[line:74] - INFO: generate embedding feature 
+2023-01-17 22:27:57,613 - E:\learn\bookClassfy\src\ML\models.py[line:83] - INFO: generate atuoencoder feature
+2023-01-17 22:27:57,614 - E:\learn\bookClassfy\src\ML\models.py[line:85] - INFO: generate basic feature
+2023-01-17 22:28:01,437 - E:\learn\bookClassfy\src\ML\models.py[line:124] - INFO: generate lda feature
+2023-01-17 22:40:46,487 - E:\learn\bookClassfy\src\ML\models.py[line:200] - INFO: get all freature
+2023-01-17 22:40:46,504 - E:\learn\bookClassfy\src\ML\models.py[line:74] - INFO: generate embedding feature 
+2023-01-17 22:40:59,901 - E:\learn\bookClassfy\src\ML\models.py[line:83] - INFO: generate atuoencoder feature
+2023-01-17 22:40:59,901 - E:\learn\bookClassfy\src\ML\models.py[line:85] - INFO: generate basic feature
+2023-01-17 22:41:03,716 - E:\learn\bookClassfy\src\ML\models.py[line:124] - INFO: generate lda feature
+2023-01-17 22:41:04,386 - E:\learn\bookClassfy\src\ML\models.py[line:138] - INFO: formate data
+2023-01-17 22:43:08,371 - E:\learn\bookClassfy\src\ML\models.py[line:200] - INFO: get all freature
+2023-01-17 22:43:08,383 - E:\learn\bookClassfy\src\ML\models.py[line:74] - INFO: generate embedding feature 
+2023-01-17 22:43:21,974 - E:\learn\bookClassfy\src\ML\models.py[line:83] - INFO: generate atuoencoder feature
+2023-01-17 22:43:21,975 - E:\learn\bookClassfy\src\ML\models.py[line:85] - INFO: generate basic feature
+2023-01-17 22:43:25,829 - E:\learn\bookClassfy\src\ML\models.py[line:124] - INFO: generate lda feature
+2023-01-17 22:43:26,609 - E:\learn\bookClassfy\src\ML\models.py[line:138] - INFO: formate data
+2023-01-17 22:58:20,902 - E:\learn\bookClassfy\src\ML\models.py[line:200] - INFO: get all freature
+2023-01-17 22:58:20,915 - E:\learn\bookClassfy\src\ML\models.py[line:74] - INFO: generate embedding feature 
+2023-01-17 22:58:34,778 - E:\learn\bookClassfy\src\ML\models.py[line:83] - INFO: generate atuoencoder feature
+2023-01-17 22:58:34,778 - E:\learn\bookClassfy\src\ML\models.py[line:85] - INFO: generate basic feature
+2023-01-17 22:58:38,653 - E:\learn\bookClassfy\src\ML\models.py[line:124] - INFO: generate lda feature
+2023-01-17 22:58:39,397 - E:\learn\bookClassfy\src\ML\models.py[line:138] - INFO: formate data
+2023-01-17 23:35:15,475 - E:\learn\bookClassfy\src\ML\models.py[line:200] - INFO: get all freature
+2023-01-17 23:35:15,488 - E:\learn\bookClassfy\src\ML\models.py[line:74] - INFO: generate embedding feature 
+2023-01-17 23:35:28,297 - E:\learn\bookClassfy\src\ML\models.py[line:83] - INFO: generate atuoencoder feature
+2023-01-17 23:35:28,297 - E:\learn\bookClassfy\src\ML\models.py[line:85] - INFO: generate basic feature
+2023-01-17 23:35:31,781 - E:\learn\bookClassfy\src\ML\models.py[line:124] - INFO: generate lda feature
+2023-01-17 23:35:32,512 - E:\learn\bookClassfy\src\ML\models.py[line:138] - INFO: formate data
+2023-01-18 00:14:31,655 - E:\learn\bookClassfy\src\ML\models.py[line:200] - INFO: get all freature
+2023-01-18 00:14:31,668 - E:\learn\bookClassfy\src\ML\models.py[line:74] - INFO: generate embedding feature 
+2023-01-18 00:14:49,556 - E:\learn\bookClassfy\src\ML\models.py[line:83] - INFO: generate atuoencoder feature
+2023-01-18 00:14:49,557 - E:\learn\bookClassfy\src\ML\models.py[line:85] - INFO: generate basic feature
+2023-01-18 00:14:53,625 - E:\learn\bookClassfy\src\ML\models.py[line:124] - INFO: generate lda feature
+2023-01-18 00:14:54,504 - E:\learn\bookClassfy\src\ML\models.py[line:138] - INFO: formate data
+2023-01-18 00:31:01,363 - E:\learn\bookClassfy\src\ML\models.py[line:200] - INFO: get all freature
+2023-01-18 00:31:01,397 - E:\learn\bookClassfy\src\ML\models.py[line:74] - INFO: generate embedding feature 
+2023-01-18 00:31:14,335 - E:\learn\bookClassfy\src\ML\models.py[line:83] - INFO: generate atuoencoder feature
+2023-01-18 00:31:14,336 - E:\learn\bookClassfy\src\ML\models.py[line:85] - INFO: generate basic feature
+2023-01-18 00:31:17,725 - E:\learn\bookClassfy\src\ML\models.py[line:124] - INFO: generate lda feature
+2023-01-18 00:31:18,450 - E:\learn\bookClassfy\src\ML\models.py[line:138] - INFO: formate data
+2023-01-18 00:46:01,740 - E:\learn\bookClassfy\src\ML\models.py[line:200] - INFO: get all freature
+2023-01-18 00:46:01,780 - E:\learn\bookClassfy\src\ML\models.py[line:74] - INFO: generate embedding feature 
+2023-01-18 00:46:14,707 - E:\learn\bookClassfy\src\ML\models.py[line:83] - INFO: generate atuoencoder feature
+2023-01-18 00:46:14,707 - E:\learn\bookClassfy\src\ML\models.py[line:85] - INFO: generate basic feature
+2023-01-18 00:46:18,226 - E:\learn\bookClassfy\src\ML\models.py[line:124] - INFO: generate lda feature
+2023-01-18 00:46:18,953 - E:\learn\bookClassfy\src\ML\models.py[line:138] - INFO: formate data
+2023-01-18 01:03:41,998 - E:\learn\bookClassfy\src\ML\models.py[line:199] - INFO: get all freature
+2023-01-18 01:03:41,998 - E:\learn\bookClassfy\src\ML\models.py[line:74] - INFO: generate embedding feature 
+2023-01-18 01:03:54,420 - E:\learn\bookClassfy\src\ML\models.py[line:83] - INFO: generate atuoencoder feature
+2023-01-18 01:03:54,421 - E:\learn\bookClassfy\src\ML\models.py[line:85] - INFO: generate basic feature
+2023-01-18 01:03:58,110 - E:\learn\bookClassfy\src\ML\models.py[line:90] - INFO: generate model feature
+2023-01-18 01:03:58,136 - E:\learn\bookClassfy\src\ML\models.py[line:117] - INFO: generate bert feature
+2023-01-18 05:10:46,523 - E:\learn\bookClassfy\src\ML\models.py[line:123] - INFO: generate lda feature
+2023-01-18 05:10:47,099 - E:\learn\bookClassfy\src\ML\models.py[line:137] - INFO: formate data
+2023-01-18 07:25:50,392 - E:\learn\bookClassfy\src\ML\models.py[line:199] - INFO: get all freature
+2023-01-18 07:25:50,404 - E:\learn\bookClassfy\src\ML\models.py[line:74] - INFO: generate embedding feature 
+2023-01-18 07:26:02,900 - E:\learn\bookClassfy\src\ML\models.py[line:83] - INFO: generate atuoencoder feature
+2023-01-18 07:26:02,900 - E:\learn\bookClassfy\src\ML\models.py[line:85] - INFO: generate basic feature
+2023-01-18 07:26:06,609 - E:\learn\bookClassfy\src\ML\models.py[line:90] - INFO: generate model feature
+2023-01-18 07:26:06,639 - E:\learn\bookClassfy\src\ML\models.py[line:117] - INFO: generate bert feature
+2023-01-18 13:02:15,147 - E:\learn\bookClassfy\src\ML\models.py[line:123] - INFO: generate lda feature
+2023-01-18 13:02:16,324 - E:\learn\bookClassfy\src\ML\models.py[line:137] - INFO: formate data
+2023-01-18 13:17:24,877 - E:\learn\bookClassfy\src\ML\models.py[line:199] - INFO: get all freature
+2023-01-18 13:17:24,878 - E:\learn\bookClassfy\src\ML\models.py[line:74] - INFO: generate embedding feature 
+2023-01-18 13:17:37,047 - E:\learn\bookClassfy\src\ML\models.py[line:83] - INFO: generate atuoencoder feature
+2023-01-18 13:17:37,047 - E:\learn\bookClassfy\src\ML\models.py[line:85] - INFO: generate basic feature
+2023-01-18 13:17:40,994 - E:\learn\bookClassfy\src\ML\models.py[line:90] - INFO: generate model feature
+2023-01-18 13:17:41,022 - E:\learn\bookClassfy\src\ML\models.py[line:117] - INFO: generate bert feature
+2023-01-18 13:19:49,129 - E:\learn\bookClassfy\src\ML\models.py[line:199] - INFO: get all freature
+2023-01-18 13:19:49,130 - E:\learn\bookClassfy\src\ML\models.py[line:74] - INFO: generate embedding feature 
+2023-01-18 13:20:01,217 - E:\learn\bookClassfy\src\ML\models.py[line:83] - INFO: generate atuoencoder feature
+2023-01-18 13:20:01,218 - E:\learn\bookClassfy\src\ML\models.py[line:85] - INFO: generate basic feature
+2023-01-18 13:20:04,995 - E:\learn\bookClassfy\src\ML\models.py[line:90] - INFO: generate model feature
+2023-01-18 13:20:05,023 - E:\learn\bookClassfy\src\ML\models.py[line:117] - INFO: generate bert feature
+2023-01-18 13:22:45,769 - E:\learn\bookClassfy\src\ML\models.py[line:199] - INFO: get all freature
+2023-01-18 13:22:45,770 - E:\learn\bookClassfy\src\ML\models.py[line:74] - INFO: generate embedding feature 
+2023-01-18 13:22:46,190 - E:\learn\bookClassfy\src\ML\models.py[line:83] - INFO: generate atuoencoder feature
+2023-01-18 13:22:46,190 - E:\learn\bookClassfy\src\ML\models.py[line:85] - INFO: generate basic feature
+2023-01-18 13:22:46,797 - E:\learn\bookClassfy\src\ML\models.py[line:90] - INFO: generate model feature
+2023-01-18 13:22:46,808 - E:\learn\bookClassfy\src\ML\models.py[line:117] - INFO: generate bert feature
+2023-01-18 13:27:59,966 - E:\learn\bookClassfy\src\ML\models.py[line:123] - INFO: generate lda feature
+2023-01-18 13:28:00,139 - E:\learn\bookClassfy\src\ML\models.py[line:137] - INFO: formate data
+2023-01-18 14:04:59,579 - E:\learn\bookClassfy\src\ML\models.py[line:199] - INFO: get all freature
+2023-01-18 14:04:59,580 - E:\learn\bookClassfy\src\ML\models.py[line:74] - INFO: generate embedding feature 
+2023-01-18 14:05:00,021 - E:\learn\bookClassfy\src\ML\models.py[line:83] - INFO: generate atuoencoder feature
+2023-01-18 14:05:00,022 - E:\learn\bookClassfy\src\ML\models.py[line:85] - INFO: generate basic feature
+2023-01-18 14:05:00,632 - E:\learn\bookClassfy\src\ML\models.py[line:90] - INFO: generate model feature
+2023-01-18 14:05:00,642 - E:\learn\bookClassfy\src\ML\models.py[line:117] - INFO: generate bert feature
+2023-01-18 14:10:15,471 - E:\learn\bookClassfy\src\ML\models.py[line:123] - INFO: generate lda feature
+2023-01-18 14:10:15,491 - E:\learn\bookClassfy\src\ML\models.py[line:137] - INFO: formate data
+2023-01-18 14:22:12,026 - E:\learn\bookClassfy\src\ML\models.py[line:199] - INFO: get all freature
+2023-01-18 14:22:12,026 - E:\learn\bookClassfy\src\ML\models.py[line:74] - INFO: generate embedding feature 
+2023-01-18 14:22:12,447 - E:\learn\bookClassfy\src\ML\models.py[line:83] - INFO: generate atuoencoder feature
+2023-01-18 14:22:12,447 - E:\learn\bookClassfy\src\ML\models.py[line:85] - INFO: generate basic feature
+2023-01-18 14:22:13,059 - E:\learn\bookClassfy\src\ML\models.py[line:90] - INFO: generate model feature
+2023-01-18 14:22:13,068 - E:\learn\bookClassfy\src\ML\models.py[line:117] - INFO: generate bert feature
+2023-01-18 14:27:26,599 - E:\learn\bookClassfy\src\ML\models.py[line:123] - INFO: generate lda feature
+2023-01-18 14:27:26,617 - E:\learn\bookClassfy\src\ML\models.py[line:137] - INFO: formate data
+2023-01-18 14:27:27,158 - E:\learn\bookClassfy\src\ML\models.py[line:233] - INFO: fit model 
+2023-01-18 14:27:28,030 - E:\learn\bookClassfy\src\ML\models.py[line:242] - INFO: Train accuracy 0.5
+2023-01-18 14:27:28,031 - E:\learn\bookClassfy\src\ML\models.py[line:244] - INFO: test accuracy 0.3
+2023-01-18 14:27:28,031 - E:\learn\bookClassfy\src\ML\models.py[line:246] - INFO: test recall 0.3
+2023-01-18 14:27:28,031 - E:\learn\bookClassfy\src\ML\models.py[line:248] - INFO: test F1_score 0.13846153846153847
+2023-01-18 15:26:22,095 - E:\learn\bookClassfy\src\ML\models.py[line:199] - INFO: get all freature
+2023-01-18 15:26:22,095 - E:\learn\bookClassfy\src\ML\models.py[line:74] - INFO: generate embedding feature 
+2023-01-18 15:26:22,491 - E:\learn\bookClassfy\src\ML\models.py[line:83] - INFO: generate atuoencoder feature
+2023-01-18 15:26:22,491 - E:\learn\bookClassfy\src\ML\models.py[line:85] - INFO: generate basic feature
+2023-01-18 15:26:23,126 - E:\learn\bookClassfy\src\ML\models.py[line:90] - INFO: generate model feature
+2023-01-18 15:26:23,137 - E:\learn\bookClassfy\src\ML\models.py[line:117] - INFO: generate bert feature
+2023-01-18 15:31:52,084 - E:\learn\bookClassfy\src\ML\models.py[line:123] - INFO: generate lda feature
+2023-01-18 15:31:52,253 - E:\learn\bookClassfy\src\ML\models.py[line:137] - INFO: formate data
+2023-01-18 15:31:52,924 - E:\learn\bookClassfy\src\ML\models.py[line:233] - INFO: fit model 
+2023-01-18 15:31:53,301 - E:\learn\bookClassfy\src\ML\models.py[line:242] - INFO: Train accuracy 0.5
+2023-01-18 15:31:53,301 - E:\learn\bookClassfy\src\ML\models.py[line:244] - INFO: test accuracy 0.3
+2023-01-18 15:31:53,302 - E:\learn\bookClassfy\src\ML\models.py[line:246] - INFO: test recall 0.3
+2023-01-18 15:31:53,302 - E:\learn\bookClassfy\src\ML\models.py[line:248] - INFO: test F1_score 0.13846153846153847
+2023-01-18 15:36:00,674 - E:\learn\bookClassfy\src\ML\models.py[line:199] - INFO: get all freature
+2023-01-18 15:36:00,674 - E:\learn\bookClassfy\src\ML\models.py[line:74] - INFO: generate embedding feature 
+2023-01-18 15:36:01,059 - E:\learn\bookClassfy\src\ML\models.py[line:83] - INFO: generate atuoencoder feature
+2023-01-18 15:36:01,060 - E:\learn\bookClassfy\src\ML\models.py[line:85] - INFO: generate basic feature
+2023-01-18 15:36:01,741 - E:\learn\bookClassfy\src\ML\models.py[line:90] - INFO: generate model feature
+2023-01-18 15:36:01,751 - E:\learn\bookClassfy\src\ML\models.py[line:117] - INFO: generate bert feature
+2023-01-18 15:41:28,965 - E:\learn\bookClassfy\src\ML\models.py[line:123] - INFO: generate lda feature
+2023-01-18 15:41:28,983 - E:\learn\bookClassfy\src\ML\models.py[line:137] - INFO: formate data
+2023-01-18 15:41:29,542 - E:\learn\bookClassfy\src\ML\models.py[line:233] - INFO: fit model 
+2023-01-18 15:41:29,853 - E:\learn\bookClassfy\src\ML\models.py[line:242] - INFO: Train accuracy 0.5
+2023-01-18 15:41:29,854 - E:\learn\bookClassfy\src\ML\models.py[line:244] - INFO: test accuracy 0.3
+2023-01-18 15:41:29,854 - E:\learn\bookClassfy\src\ML\models.py[line:246] - INFO: test recall 0.3
+2023-01-18 15:41:29,854 - E:\learn\bookClassfy\src\ML\models.py[line:248] - INFO: test F1_score 0.13846153846153847
+2023-01-18 15:43:27,044 - E:\learn\bookClassfy\src\ML\models.py[line:199] - INFO: get all freature
+2023-01-18 15:43:27,044 - E:\learn\bookClassfy\src\ML\models.py[line:74] - INFO: generate embedding feature 
+2023-01-18 15:43:27,476 - E:\learn\bookClassfy\src\ML\models.py[line:83] - INFO: generate atuoencoder feature
+2023-01-18 15:43:27,476 - E:\learn\bookClassfy\src\ML\models.py[line:85] - INFO: generate basic feature
+2023-01-18 15:43:28,103 - E:\learn\bookClassfy\src\ML\models.py[line:90] - INFO: generate model feature
+2023-01-18 15:43:28,113 - E:\learn\bookClassfy\src\ML\models.py[line:117] - INFO: generate bert feature
+2023-01-18 15:48:51,499 - E:\learn\bookClassfy\src\ML\models.py[line:123] - INFO: generate lda feature
+2023-01-18 15:48:51,518 - E:\learn\bookClassfy\src\ML\models.py[line:137] - INFO: formate data
+2023-01-18 15:48:52,114 - E:\learn\bookClassfy\src\ML\models.py[line:233] - INFO: fit model 
+2023-01-18 15:48:52,429 - E:\learn\bookClassfy\src\ML\models.py[line:242] - INFO: Train accuracy 0.5
+2023-01-18 15:48:52,429 - E:\learn\bookClassfy\src\ML\models.py[line:244] - INFO: test accuracy 0.3
+2023-01-18 15:48:52,429 - E:\learn\bookClassfy\src\ML\models.py[line:246] - INFO: test recall 0.3
+2023-01-18 15:48:52,430 - E:\learn\bookClassfy\src\ML\models.py[line:248] - INFO: test F1_score 0.13846153846153847
+2023-01-18 15:59:36,744 - E:\learn\bookClassfy\src\ML\models.py[line:200] - INFO: get all freature
+2023-01-18 15:59:36,745 - E:\learn\bookClassfy\src\ML\models.py[line:75] - INFO: generate embedding feature 
+2023-01-18 15:59:37,128 - E:\learn\bookClassfy\src\ML\models.py[line:84] - INFO: generate atuoencoder feature
+2023-01-18 15:59:37,128 - E:\learn\bookClassfy\src\ML\models.py[line:86] - INFO: generate basic feature
+2023-01-18 15:59:37,793 - E:\learn\bookClassfy\src\ML\models.py[line:91] - INFO: generate model feature
+2023-01-18 15:59:37,808 - E:\learn\bookClassfy\src\ML\models.py[line:118] - INFO: generate bert feature
+2023-01-18 16:05:02,812 - E:\learn\bookClassfy\src\ML\models.py[line:124] - INFO: generate lda feature
+2023-01-18 16:05:02,833 - E:\learn\bookClassfy\src\ML\models.py[line:138] - INFO: formate data
+2023-01-18 16:05:03,381 - E:\learn\bookClassfy\src\ML\models.py[line:233] - INFO: fit model 
+2023-01-18 16:05:03,826 - E:\learn\bookClassfy\src\ML\models.py[line:242] - INFO: Train accuracy 1.0
+2023-01-18 16:05:03,827 - E:\learn\bookClassfy\src\ML\models.py[line:244] - INFO: test accuracy 0.2
+2023-01-18 16:05:03,827 - E:\learn\bookClassfy\src\ML\models.py[line:246] - INFO: test recall 0.2
+2023-01-18 16:05:03,827 - E:\learn\bookClassfy\src\ML\models.py[line:248] - INFO: test F1_score 0.22000000000000003
+2023-01-18 16:06:30,021 - E:\learn\bookClassfy\src\ML\models.py[line:200] - INFO: get all freature
+2023-01-18 16:06:30,022 - E:\learn\bookClassfy\src\ML\models.py[line:75] - INFO: generate embedding feature 
+2023-01-18 16:06:30,385 - E:\learn\bookClassfy\src\ML\models.py[line:84] - INFO: generate atuoencoder feature
+2023-01-18 16:06:30,386 - E:\learn\bookClassfy\src\ML\models.py[line:86] - INFO: generate basic feature
+2023-01-18 16:06:31,059 - E:\learn\bookClassfy\src\ML\models.py[line:91] - INFO: generate model feature
+2023-01-18 16:06:31,073 - E:\learn\bookClassfy\src\ML\models.py[line:118] - INFO: generate bert feature
+2023-01-18 16:11:09,880 - E:\learn\bookClassfy\src\ML\models.py[line:124] - INFO: generate lda feature
+2023-01-18 16:11:09,896 - E:\learn\bookClassfy\src\ML\models.py[line:138] - INFO: formate data
+2023-01-18 16:11:10,439 - E:\learn\bookClassfy\src\ML\models.py[line:233] - INFO: fit model 
+2023-01-18 16:11:10,746 - E:\learn\bookClassfy\src\ML\models.py[line:242] - INFO: Train accuracy 1.0
+2023-01-18 16:11:10,746 - E:\learn\bookClassfy\src\ML\models.py[line:244] - INFO: test accuracy 0.2
+2023-01-18 16:11:10,746 - E:\learn\bookClassfy\src\ML\models.py[line:246] - INFO: test recall 0.2
+2023-01-18 16:11:10,747 - E:\learn\bookClassfy\src\ML\models.py[line:248] - INFO: test F1_score 0.11666666666666665
+2023-01-18 17:37:24,646 - E:\learn\bookClassfy\src\ML\models.py[line:200] - INFO: get all freature
+2023-01-18 17:37:24,646 - E:\learn\bookClassfy\src\ML\models.py[line:75] - INFO: generate embedding feature 
+2023-01-18 17:37:24,990 - E:\learn\bookClassfy\src\ML\models.py[line:84] - INFO: generate atuoencoder feature
+2023-01-18 17:37:25,007 - E:\learn\bookClassfy\src\ML\models.py[line:86] - INFO: generate basic feature
+2023-01-18 17:37:25,885 - E:\learn\bookClassfy\src\ML\models.py[line:91] - INFO: generate model feature
+2023-01-18 17:37:25,896 - E:\learn\bookClassfy\src\ML\models.py[line:118] - INFO: generate bert feature
+2023-01-18 17:43:06,996 - E:\learn\bookClassfy\src\ML\models.py[line:200] - INFO: get all freature
+2023-01-18 17:43:06,997 - E:\learn\bookClassfy\src\ML\models.py[line:75] - INFO: generate embedding feature 
+2023-01-18 17:43:07,359 - E:\learn\bookClassfy\src\ML\models.py[line:84] - INFO: generate atuoencoder feature
+2023-01-18 17:43:07,360 - E:\learn\bookClassfy\src\ML\models.py[line:86] - INFO: generate basic feature
+2023-01-18 17:43:07,981 - E:\learn\bookClassfy\src\ML\models.py[line:91] - INFO: generate model feature
+2023-01-18 17:43:07,996 - E:\learn\bookClassfy\src\ML\models.py[line:118] - INFO: generate bert feature
+2023-01-18 17:47:12,835 - E:\learn\bookClassfy\src\ML\models.py[line:200] - INFO: get all freature
+2023-01-18 17:47:12,835 - E:\learn\bookClassfy\src\ML\models.py[line:75] - INFO: generate embedding feature 
+2023-01-18 17:47:25,091 - E:\learn\bookClassfy\src\ML\models.py[line:84] - INFO: generate atuoencoder feature
+2023-01-18 17:47:25,092 - E:\learn\bookClassfy\src\ML\models.py[line:86] - INFO: generate basic feature
+2023-01-18 17:47:28,669 - E:\learn\bookClassfy\src\ML\models.py[line:91] - INFO: generate model feature
+2023-01-18 17:47:28,708 - E:\learn\bookClassfy\src\ML\models.py[line:118] - INFO: generate bert feature
+2023-01-18 21:57:51,518 - E:\learn\bookClassfy\src\ML\models.py[line:124] - INFO: generate lda feature
+2023-01-18 21:57:52,591 - E:\learn\bookClassfy\src\ML\models.py[line:138] - INFO: formate data
+2023-01-18 21:57:57,059 - E:\learn\bookClassfy\src\ML\models.py[line:233] - INFO: fit model 
+2023-01-18 21:58:04,009 - E:\learn\bookClassfy\src\ML\models.py[line:242] - INFO: Train accuracy 0.222
+2023-01-18 21:58:04,009 - E:\learn\bookClassfy\src\ML\models.py[line:244] - INFO: test accuracy 0.12
+2023-01-18 21:58:04,009 - E:\learn\bookClassfy\src\ML\models.py[line:246] - INFO: test recall 0.12
+2023-01-18 21:58:04,010 - E:\learn\bookClassfy\src\ML\models.py[line:248] - INFO: test F1_score 0.12050349650349651
+2023-01-18 22:19:39,470 - E:\learn\bookClassfy\src\ML\models.py[line:200] - INFO: get all freature
+2023-01-18 22:19:39,471 - E:\learn\bookClassfy\src\ML\models.py[line:75] - INFO: generate embedding feature 
+2023-01-18 22:19:52,564 - E:\learn\bookClassfy\src\ML\models.py[line:84] - INFO: generate atuoencoder feature
+2023-01-18 22:19:52,565 - E:\learn\bookClassfy\src\ML\models.py[line:86] - INFO: generate basic feature
+2023-01-18 22:19:56,331 - E:\learn\bookClassfy\src\ML\models.py[line:91] - INFO: generate model feature
+2023-01-18 22:19:56,363 - E:\learn\bookClassfy\src\ML\models.py[line:118] - INFO: generate bert feature
+2023-01-19 12:29:10,144 - E:\learn\bookClassfy\src\ML\models.py[line:124] - INFO: generate lda feature
+2023-01-19 12:29:17,131 - E:\learn\bookClassfy\src\ML\models.py[line:138] - INFO: formate data
+2023-01-19 12:29:24,711 - E:\learn\bookClassfy\src\ML\models.py[line:233] - INFO: fit model 
+2023-01-19 12:29:31,765 - E:\learn\bookClassfy\src\ML\models.py[line:242] - INFO: Train accuracy 0.223
+2023-01-19 12:29:31,765 - E:\learn\bookClassfy\src\ML\models.py[line:244] - INFO: test accuracy 0.07
+2023-01-19 12:29:31,765 - E:\learn\bookClassfy\src\ML\models.py[line:246] - INFO: test recall 0.07
+2023-01-19 12:29:31,766 - E:\learn\bookClassfy\src\ML\models.py[line:248] - INFO: test F1_score 0.08033977786918964

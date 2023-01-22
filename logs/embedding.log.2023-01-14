@@ -1,0 +1,47 @@
+2023-01-12 15:39:15,104 - embedding.py[line:37] - INFO: load data
+2023-01-12 15:40:11,472 - embedding.py[line:37] - INFO: load data
+2023-01-12 15:40:36,793 - embedding.py[line:37] - INFO: load data
+2023-01-12 15:44:12,780 - embedding.py[line:47] - INFO: train tfidf
+2023-01-12 15:44:50,207 - embedding.py[line:53] - INFO: train word2vec
+2023-01-12 15:54:53,159 - embedding.py[line:37] - INFO: load data
+2023-01-12 15:58:34,815 - embedding.py[line:47] - INFO: train tfidf
+2023-01-12 15:59:11,055 - embedding.py[line:53] - INFO: train word2vec
+2023-01-12 16:12:24,543 - embedding.py[line:69] - INFO: train fast
+2023-01-12 16:37:20,532 - embedding.py[line:82] - INFO: train lda
+2023-01-12 16:39:56,391 - embedding.py[line:38] - INFO: load data
+2023-01-12 16:43:33,499 - embedding.py[line:48] - INFO: train tfidf
+2023-01-12 16:44:09,543 - embedding.py[line:54] - INFO: train word2vec
+2023-01-12 16:57:34,859 - embedding.py[line:70] - INFO: train fast
+2023-01-12 17:22:27,717 - embedding.py[line:83] - INFO: train lda
+2023-01-13 16:22:09,574 - embedding.py[line:38] - INFO: load data
+2023-01-13 16:25:40,523 - embedding.py[line:48] - INFO: train tfidf
+2023-01-13 16:26:15,710 - embedding.py[line:54] - INFO: train word2vec
+2023-01-13 16:39:05,017 - embedding.py[line:70] - INFO: train fast
+2023-01-13 17:02:45,371 - embedding.py[line:83] - INFO: train lda
+2023-01-13 17:14:30,121 - embedding.py[line:38] - INFO: load data
+2023-01-13 17:17:59,045 - embedding.py[line:48] - INFO: train tfidf
+2023-01-13 17:18:33,468 - embedding.py[line:54] - INFO: train word2vec
+2023-01-13 17:30:53,346 - embedding.py[line:70] - INFO: train fast
+2023-01-13 17:56:39,865 - embedding.py[line:83] - INFO: train lda
+2023-01-13 20:01:36,664 - embedding.py[line:38] - INFO: load data
+2023-01-13 20:05:15,931 - embedding.py[line:48] - INFO: train tfidf
+2023-01-13 20:05:51,157 - embedding.py[line:54] - INFO: train word2vec
+2023-01-13 20:18:16,671 - embedding.py[line:70] - INFO: train fast
+2023-01-13 20:40:45,583 - embedding.py[line:83] - INFO: train lda
+2023-01-13 20:52:39,365 - embedding.py[line:94] - INFO: save tfidf model
+2023-01-14 00:23:33,199 - embedding.py[line:38] - INFO: load data
+2023-01-14 00:27:22,107 - embedding.py[line:48] - INFO: train tfidf
+2023-01-14 00:27:59,510 - embedding.py[line:54] - INFO: train word2vec
+2023-01-14 00:41:27,335 - embedding.py[line:70] - INFO: train fast
+2023-01-14 01:06:50,794 - embedding.py[line:83] - INFO: train lda
+2023-01-14 01:19:28,247 - embedding.py[line:94] - INFO: save tfidf model
+2023-01-14 01:19:57,776 - embedding.py[line:97] - INFO: save w2v model
+2023-01-14 01:59:12,517 - embedding.py[line:38] - INFO: load data
+2023-01-14 02:02:52,759 - embedding.py[line:48] - INFO: train tfidf
+2023-01-14 02:03:29,076 - embedding.py[line:54] - INFO: train word2vec
+2023-01-14 02:17:04,529 - embedding.py[line:70] - INFO: train fast
+2023-01-14 02:40:48,876 - embedding.py[line:83] - INFO: train lda
+2023-01-14 02:52:41,840 - embedding.py[line:94] - INFO: save tfidf model
+2023-01-14 02:53:07,938 - embedding.py[line:97] - INFO: save w2v model
+2023-01-14 02:53:08,562 - embedding.py[line:100] - INFO: save fast model
+2023-01-14 02:53:08,653 - embedding.py[line:103] - INFO: save ladmodel
